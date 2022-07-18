@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 here is what I a working on
 
-<!--
 - 👨🏻‍💻 It's me Clarkson De Incognito 🥷
 - 🇬🇭 I am a Ghanaian and a developer advocate
 - 🔭 I’m currently working on Digio mvp, Buknr which is a native app 
@@ -13,5 +12,4 @@
 - 📫 How to reach me: fredrickotabil97@gmail.com
 - 😄 Idioms : Debugging is twice as hard as writing the code in the first place.Therfore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. - Rajanand
 - ⚡ Fun fact:  Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
--->
-###
+
