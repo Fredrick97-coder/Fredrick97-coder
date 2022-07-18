@@ -1,4 +1,4 @@
-### Hi there 👋 here is what I a working on
+### Hi there 👋 here is what I am currently working on
 
 - 👨🏻‍💻 It's me Clarkson De Incognito 🥷
 - 🇬🇭 I am a Ghanaian and a developer advocate
