@@ -10,7 +10,6 @@ I am a Ghanaian and a developer advocate. I always love to share my journey as a
 *   ✉️  You can contact me at [fredrickotabil97@gmail.com](mailto:fredrickotabil97@gmail.com)
 *   🧠  I'm learning C programming and Machine Learning
 *   🔭 I’m currently working on Digio mvp which is a native app, and Buknr which is a webapp for event centres in Ghana
-*   😱 I feel like the world is empty without data.... so in that regard, I am learning Data Science coupled with machine learning 
 *   👯 I’m looking to collaborate on a big react native app with William Candillon my best Typescript instructor
 *   🤔 I’m a JavaScript developer 
 *   😋 But I love Typescript 🚀
