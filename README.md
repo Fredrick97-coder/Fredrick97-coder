@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/Fredrick97-coder?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" alt="GitHub followers" />
   </a>
   <a href="https://x.com/ClarkCoder">
-    <img src="https://img.shields.io/x/follow/ClarkCoder?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917" alt="Twitter follow" />
+    <img src="https://img.shields.io/twitter/follow/ClarkCoder?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917" alt="Twitter follow" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Fredrick97-coder&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
 </p>
