@@ -1,9 +1,16 @@
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0891b2,100:22d3ee&height=220&section=header&text=Clarkson%20De%20Incognito&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Graphic%20Designer%20%C2%B7%20Accra,%20Ghana&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0891b2,100:22d3ee&height=170&section=header" alt="header wave" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I%27m+Clarkson+%E2%80%94+Full-Stack+Engineer;TypeScript+%2B+React+%2B+Node.js+every+single+day;Now+diving+into+Data+Science+%26+Machine+Learning;Graphic+designer+when+the+terminal+sleeps+%F0%9F%8E%A8;%22Good+code+is+code+humans+can+read.%22" alt="Typing SVG" />
+<h1>
+  Hi, I'm Clarkson De Incognito
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32px" alt="waving hand" />
+</h1>
+
+<h3>Software Engineer &amp; Graphic Designer · based in Accra, Ghana 🇬🇭</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer+%F0%9F%92%BB;TypeScript+%2B+React+%2B+Node.js+every+single+day;Now+diving+into+Data+Science+%26+Machine+Learning;Graphic+designer+when+the+terminal+sleeps+%F0%9F%8E%A8;%22Good+code+is+code+humans+can+read.%22" alt="Typing SVG" />
 
 <a href="https://github.com/Fredrick97-coder"><img src="https://img.shields.io/github/followers/Fredrick97-coder?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" alt="GitHub followers" /></a>
 <a href="https://x.com/ClarkCoder"><img src="https://img.shields.io/badge/Follow-%40ClarkCoder-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1c1917" alt="Follow on X" /></a>
@@ -159,6 +166,8 @@ by definition, not smart enough to debug it."</i>
 
 ⚡ <b>Fun fact:</b> Any fool can write code that a computer can understand.<br>Good programmers write code that <b>humans</b> can understand.
 
-</div>
+<h3>✨ Thanks for stopping by! ✨</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0891b2,100:6366f1&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=ffffff&fontAlignY=70" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0891b2,100:6366f1&height=120&section=footer" alt="footer wave" />
+
+</div>
