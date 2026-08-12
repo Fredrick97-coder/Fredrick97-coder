@@ -1,4 +1,4 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0891b2,100:22d3ee&height=170&section=header" alt="header wave" />
@@ -123,10 +123,10 @@ JavaScript · TypeScript · React · stuck bugs
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Fredrick97-coder&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=6366f1&border_radius=12" alt="GitHub stats" />
-<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fredrick97-coder&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&border_radius=12" alt="Most used languages" />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Fredrick97-coder&show_icons=true&count_private=true&hide_border=true&disable_animations=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=6366f1&border_radius=12" alt="GitHub stats" />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fredrick97-coder&langs_count=8&layout=compact&hide_border=true&disable_animations=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&border_radius=12" alt="Most used languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Fredrick97-coder&hide_border=true&background=0d1117&border_radius=12&stroke=ffffff&ring=22d3ee&fire=6366f1&currStreakNum=ffffff&currStreakLabel=22d3ee&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Fredrick97-coder&hide_border=true&disable_animations=true&background=0d1117&border_radius=12&stroke=ffffff&ring=22d3ee&fire=6366f1&currStreakNum=ffffff&currStreakLabel=22d3ee&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub streak" />
 
 ### 📈 Contribution Graph
 
