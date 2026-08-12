@@ -134,7 +134,7 @@ JavaScript · TypeScript · React · stuck bugs
 
 ### 🏆 Trophies
 
-<img src="https://github-trophies.vercel.app/?username=Fredrick97-coder&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Fredrick97-coder&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 
 ### 🐍 Contribution Snake
 
