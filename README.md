@@ -1,7 +1,7 @@
-<!-- ═══════════════════════════════ ANIMATED HEADER ═══════════════════════════════ -->
+<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0891b2,100:22d3ee&height=220&section=header&text=Clarkson%20De%20Incognito&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Graphic%20Designer%20%C2%B7%20Accra,%20Ghana&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0891b2,100:22d3ee&height=220&section=header&text=Clarkson%20De%20Incognito&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Graphic%20Designer%20%C2%B7%20Accra,%20Ghana&descAlignY=58&descSize=18" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I%27m+Clarkson+%E2%80%94+Full-Stack+Engineer;TypeScript+%2B+React+%2B+Node.js+every+single+day;Now+diving+into+Data+Science+%26+Machine+Learning;Graphic+designer+when+the+terminal+sleeps+%F0%9F%8E%A8;%22Good+code+is+code+humans+can+read.%22" alt="Typing SVG" />
 
@@ -14,7 +14,6 @@
 
 </div>
 
-<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation" />
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> About Me
@@ -41,7 +40,6 @@ const clarkson = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════ CURRENTLY ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28" /> What I'm Up To
 
 <table>
@@ -71,7 +69,6 @@ JavaScript · TypeScript · React · stuck bugs
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -115,7 +112,6 @@ JavaScript · TypeScript · React · stuck bugs
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="28" /> GitHub Stats
 
 <div align="center">
@@ -137,7 +133,6 @@ JavaScript · TypeScript · React · stuck bugs
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -166,4 +161,4 @@ by definition, not smart enough to debug it."</i>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0891b2,100:6366f1&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0891b2,100:6366f1&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=ffffff&fontAlignY=70" alt="footer" />
