@@ -136,6 +136,14 @@ JavaScript · TypeScript · React · stuck bugs
 
 <img src="https://github-trophies.vercel.app/?username=Fredrick97-coder&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredrick97-coder/Fredrick97-coder/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredrick97-coder/Fredrick97-coder/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Fredrick97-coder/Fredrick97-coder/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
