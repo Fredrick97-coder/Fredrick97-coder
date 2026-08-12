@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0891b2,100:22d3ee&height=170&section=header" alt="header wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CE1126,32:CE1126,34:FCD116,64:FCD116,66:006B3F,100:006B3F&height=170&section=header" alt="header wave" />
 
 <h1>
   Hi, I'm Clarkson De Incognito
@@ -176,6 +176,6 @@ by definition, not smart enough to debug it."</i>
 
 <h3>✨ Thanks for stopping by! ✨</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0891b2,100:6366f1&height=120&section=footer" alt="footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006B3F,32:006B3F,34:FCD116,64:FCD116,66:CE1126,100:CE1126&height=120&section=footer" alt="footer wave" />
 
 </div>
