@@ -1,181 +1,78 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CE1126,32:CE1126,34:FCD116,64:FCD116,66:006B3F,100:006B3F&height=170&section=header" alt="header wave" />
+<br />
 
-<h1>
-  Hi, I'm Clarkson De Incognito
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32px" alt="waving hand" />
-</h1>
+# Fredrick Otabil
 
-<h3>Software Engineer &amp; Graphic Designer · based in Accra, Ghana 🇬🇭</h3>
+**Senior Software Engineer & Tech Lead**<br />
+<sub>Building multi-tenant products that feel simple — from Accra, Ghana.</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FCD116&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer+%F0%9F%92%BB;TypeScript+%2B+React+%2B+Node.js+every+single+day;Now+diving+into+Data+Science+%26+Machine+Learning;Graphic+designer+when+the+terminal+sleeps+%F0%9F%8E%A8;%22Good+code+is+code+humans+can+read.%22" alt="Typing SVG" />
+<br />
 
-<a href="https://github.com/Fredrick97-coder"><img src="https://img.shields.io/github/followers/Fredrick97-coder?logo=github&style=for-the-badge&color=FCD116&labelColor=1c1917" alt="GitHub followers" /></a>
-<a href="https://x.com/ClarkCoder"><img src="https://img.shields.io/badge/Follow-%40ClarkCoder-006B3F?style=for-the-badge&logo=x&logoColor=white&labelColor=1c1917" alt="Follow on X" /></a>
-<img src="https://komarev.com/ghpvc/?username=Fredrick97-coder&label=Profile%20views&color=FCD116&style=for-the-badge" alt="Profile views" />
-<a href="mailto:fredrickotabil97@gmail.com"><img src="https://img.shields.io/badge/Let%27s%20talk-Email-CE1126?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" /></a>
+<a href="https://fredrickportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:fredrickotabil97@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/ClarkCoder"><img src="https://img.shields.io/badge/@ClarkCoder-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<br /><br />
 
 </div>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation" />
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> About Me
+<br />
 
-I'm a Ghanaian **developer advocate** who loves building things that solve real problems — and sharing the journey with young developers along the way.
+### Designed to disappear.
 
-I believe the world feels empty without data, which is exactly why I'm going deeper into **Data Science** and **Machine Learning** alongside my engineering work.
+The best software gets out of the way. I spend my time on the parts people never notice — clean data boundaries, predictable deployments, interfaces that need no manual — so the product itself can feel effortless.
 
-When I'm not shipping code, you'll find me crafting visuals as a **graphic designer**, exploring new tech, or helping someone unstick a tricky bug.
+Five years in, most of that work has been multi-tenant SaaS: one codebase, many organisations, zero excuses for one tenant's data reaching another.
 
-```javascript
-const clarkson = {
-  location   : "Accra, Ghana 🇬🇭",
-  role       : "Software Engineer & Graphic Designer",
-  daily      : ["JavaScript", "TypeScript", "React", "Node.js"],
-  loves      : "TypeScript 🚀",
-  learning   : ["C Programming", "Machine Learning", "Data Science"],
-  askMeAbout : "JS, TS, React, or that bug you're stuck on",
-  motto      : "Good code is code humans can read."
-};
-```
+<br />
 
-<br clear="right" />
+### Now
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+&nbsp;&nbsp;**Leading engineering on Afram** — a VASP-licensed digital asset platform at Merson Venture Studio.<br />
+&nbsp;&nbsp;**Building a school management platform** — multi-tenant SaaS for schools across Ghana.<br />
+&nbsp;&nbsp;**Automating the release train** — AI agents that build, review and ship under human-owned guardrails.<br />
+&nbsp;&nbsp;**Learning iOS, properly** — Swift and SwiftUI, aiming for production quality, not tutorials.
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28" /> What I'm Up To
+<br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Principles
 
-#### 🔭 Building
-**Digio MVP** — a native mobile app  
-**Buknr** — a webapp for event centres in Ghana
+| | |
+|:--|:--|
+| **Clarity over cleverness** | Code is read far more often than it is written. |
+| **Security is a feature** | Isolation, least privilege and audit trails are designed in, not bolted on. |
+| **Ship small, ship often** | Short feedback loops beat long plans. |
+| **Teach what you learn** | I mentor interns and national service engineers — and learn twice as much doing it. |
 
-#### 🌱 Learning
-C Programming · Machine Learning · Data Science
+<br />
 
-</td>
-<td width="50%" valign="top">
+### Toolkit
 
-#### 👯 Open To
-A big **React Native** project  
-<sub>(William Candillon, if you're reading this 👀)</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,swift&theme=light" alt="Languages" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind&theme=light" alt="Frameworks" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,cloudflare,aws,linux,git&theme=light" alt="Infrastructure" />
+</p>
 
-#### 💬 Ask Me About
-JavaScript · TypeScript · React · stuck bugs
+<br />
 
-</td>
-</tr>
-</table>
+### Background
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+**BSc Computer Science**, University of Ghana · Second Class Upper<br />
+<sub>Research in human activity recognition — fine-tuning neural networks on the OPPORTUNITY benchmark.</sub>
 
-## 🧰 Tech Stack
+**Curriculum author**, Software Engineering & AI · Penfield High School<br />
+**Founder**, NextGen Tech Nerds — online software engineering courses
+
+<br />
+
+---
 
 <div align="center">
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart&theme=dark" alt="Languages" /></a>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,redux,jquery&theme=dark" alt="Frontend" /></a>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend, Databases &amp; Mobile</b></summary>
-<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,mongodb,firebase,flutter&theme=dark" alt="Backend" /></a>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, Tooling &amp; Design</b></summary>
-<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase,heroku,vercel,git,figma,ps,ai,ae,pr&theme=dark" alt="Cloud and Design" /></a>
-</details>
-
-<details open>
-<summary><b>⛓️ Web3 &amp; Blockchain</b></summary>
-<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" /></a>&nbsp;
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-<img src="https://img.shields.io/badge/Truffle-3FE0C5?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" />
-<img src="https://img.shields.io/badge/Alchemy-0C0C0E?style=for-the-badge&logo=alchemy&logoColor=white" alt="Alchemy" />
-</details>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="28" /> GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Fredrick97-coder&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Clarkson%27s+GitHub+Stats&hide_border=true&disable_animations=true&bg_color=0d1117&title_color=FCD116&text_color=E6EDF3&icon_color=CE1126&border_radius=12" alt="GitHub stats" />
-<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fredrick97-coder&langs_count=8&layout=compact&hide_border=true&disable_animations=true&bg_color=0d1117&title_color=FCD116&text_color=E6EDF3&border_radius=12" alt="Most used languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=Fredrick97-coder&hide_border=true&disable_animations=true&background=0d1117&border_radius=12&stroke=006B3F&ring=CE1126&fire=FCD116&currStreakNum=ffffff&currStreakLabel=FCD116&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub streak" />
-
-### 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fredrick97-coder&bg_color=0d1117&color=FCD116&line=CE1126&point=FCD116&area=true&area_color=FCD116&hide_border=true&radius=12" alt="Activity graph" />
-
-### 🏆 Trophies
-
-<img src="https://github-trophies.vercel.app/?username=Fredrick97-coder&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredrick97-coder/Fredrick97-coder/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredrick97-coder/Fredrick97-coder/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Fredrick97-coder/Fredrick97-coder/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/fredrick-mensah-otabil-59532620b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/ClarkCoder" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://github.com/Fredrick97-coder" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.facebook.com/profile.php?id=100068801012572" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="mailto:fredrickotabil97@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="420" alt="dev gif" />
-
-<br>
-
-<i>"Debugging is twice as hard as writing the code in the first place.<br>
-Therefore, if you write the code as cleverly as possible, you are,<br>
-by definition, not smart enough to debug it."</i>
-
-<b>— Brian Kernighan</b>
-
-<br>
-
-⚡ <b>Fun fact:</b> Any fool can write code that a computer can understand.<br>Good programmers write code that <b>humans</b> can understand.
-
-<h3>✨ Thanks for stopping by! ✨</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006B3F,32:006B3F,34:FCD116,64:FCD116,66:CE1126,100:CE1126&height=120&section=footer" alt="footer wave" />
-
+<br />
+<sub>Thoughtfully built in Accra. &nbsp;·&nbsp; Open to meaningful collaborations.</sub>
+<br /><br />
 </div>
