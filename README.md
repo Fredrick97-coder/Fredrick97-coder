@@ -1,167 +1,187 @@
  <div align="center">
 
-<br />
-
-Fredrick Otabil
-
-Senior Software Engineer · Tech Lead · Systems Architect
-
-Building reliable software, scalable platforms, and thoughtful developer experiences.
-
-Accra, Ghana 🇬🇭
-
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:17172B,100:312E81&height=200&section=header&text=Fredrick%20Otabil&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Lead&descSize=17&descAlignY=60&animation=fadeIn" />
 
 <a href="https://fredrickportfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:fredrickotabil97@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/fredrick-mensah-otabil-59532620b/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fredrickotabil97@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://x.com/ClarkCoder">
-  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/FOLLOW%20ON%20X-18181B?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<br /><br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Architecting+Scalable+Systems.;Building+Products+That+Solve+Real+Problems.;Engineering+Reliable+Backend+Infrastructure.;Turning+Complexity+Into+Simplicity." />
+
+<br />
+
+**Accra, Ghana 🇬🇭 · Building globally, engineering intentionally.**
 
 </div>
 
-About
+---
 
-I engineer software at the intersection of product thinking, backend architecture, and infrastructure.
+## `01` — About Me
 
-My work focuses on turning complex business requirements into reliable, maintainable systems. I enjoy designing APIs, building distributed services, engineering multi-tenant platforms, automating infrastructure, and creating products that scale without becoming unnecessarily complicated.
+```typescript
+const fredrick = {
+  role: "Senior Software Engineer & Tech Lead",
+  location: "Accra, Ghana",
+  focus: [
+    "Backend Engineering",
+    "System Architecture",
+    "Cloud & DevOps",
+    "Multi-tenant SaaS",
+    "AI Engineering"
+  ],
+  currentlyLearning: ["Go", "GraphQL", "Swift"],
+  philosophy: "Build things that matter. Build them well."
+};
+```
 
-Over the years, I've worked across real estate technology, digital assets, education technology, and developer tooling — taking ideas from architecture and implementation through deployment and production operations.
+I'm a software engineer passionate about designing and building **scalable, secure, and maintainable digital products**.
 
-I care about the engineering behind the experience: systems that are secure by design, deployments that are predictable, and codebases that remain understandable as teams and products grow.
+My experience spans backend engineering, distributed systems, cloud infrastructure, and full-stack development. I enjoy working through complex technical challenges, translating business requirements into solid architecture, and leading products from conception to production.
 
-What I'm Working On
+I believe great engineering is not just about writing code. It's about making the right decisions, building resilient systems, and creating experiences that make technology feel effortless.
 
-Afram — Engineering and leading the development of a digital asset and real estate tokenization platform at Merson Venture Studio.
+## `02` — What I'm Building
 
-Education Technology — Building a multi-tenant school management platform designed for the operational realities of schools in Ghana.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI Engineering Workflows — Exploring agentic development workflows for automated implementation, code review, testing, and delivery with human oversight.
+### 🏢 Afram
 
-Go & GraphQL — Deepening my expertise in high-performance backend engineering and API architecture.
+**Digital Assets & Real Estate Technology**
 
-iOS Development — Exploring Swift and SwiftUI to build native, production-quality applications.
+Engineering a digital asset platform with property tokenization, distributed services, secure authentication, and automated workflows.
 
-Engineering Focus
+</td>
+<td width="50%" valign="top">
 
-Area
+### 🎓 Education Technology
 
-What I care about
+**Multi-tenant School Management**
 
-Backend Engineering
+Building a SaaS platform designed to simplify school administration, academic operations, and institutional management.
 
-Domain-driven design, API architecture, distributed systems and service boundaries
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-System Architecture
+### 🤖 AI Engineering
 
-Scalability, maintainability, multi-tenancy and fault tolerance
+**Agentic Development Workflows**
 
-Cloud & DevOps
+Exploring AI-powered engineering workflows for implementation, code reviews, testing, and software delivery.
 
-CI/CD, containerization, infrastructure automation and observability
+</td>
+<td width="50%" valign="top">
 
-Database Engineering
+### 🍎 Native Development
 
-Data modeling, query optimization, caching and transaction management
+**Swift & SwiftUI**
 
-Application Security
+Expanding into the Apple ecosystem and exploring modern native application architecture.
 
-Authentication, authorization, tenant isolation and secure integrations
+</td>
+</tr>
+</table>
 
-AI Engineering
+## `03` — Tech Arsenal
 
-LLM integration, RAG architectures and agentic development workflows
-
-Technology Stack
-
-Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,go,java,python,swift&theme=dark" />
-</p>
-
-Backend & Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,react,nextjs,reactnative,tailwind&theme=dark" />
-</p>
-
-Databases & Messaging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&theme=dark" />
-</p>
-
-Cloud, Infrastructure & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux,nginx,git&theme=dark" />
-</p>
-
-Currently Exploring
+**LANGUAGES**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,graphql,swift,terraform&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,java,python,swift&theme=dark" />
 </p>
 
-Engineering Principles
+**BACKEND & FRONTEND**
 
-01 — Simplicity is an engineering achievement.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,react,nextjs,reactnative,tailwind&theme=dark" />
+</p>
 
-The best abstractions reduce complexity rather than hide it.
+**DATABASES & STORAGE**
 
-02 — Design for failure.
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&theme=dark" />
+</p>
 
-Distributed systems fail. Good architecture anticipates failure, isolates its impact, and recovers gracefully.
+**CLOUD & INFRASTRUCTURE**
 
-03 — Security belongs in the architecture.
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux,nginx,git&theme=dark" />
+</p>
 
-Tenant isolation, least privilege, secure defaults, and auditability should exist from day one.
+**API & DEVELOPMENT TOOLS**
 
-04 — Ownership goes beyond writing code.
+<p>
+<img src="https://skillicons.dev/icons?i=graphql,postman,vscode,bash,terraform&theme=dark" />
+</p>
 
-I care about the entire lifecycle: architecture, implementation, testing, deployment, monitoring, and continuous improvement.
+## `04` — Engineering Philosophy
 
-05 — Build people, not just products.
+| Principle | Belief |
+|:--|:--|
+| Architecture | Good architecture makes change easier. |
+| Simplicity | The best solution is often the simplest one that works. |
+| Security | Trust boundaries must be designed, not assumed. |
+| Ownership | Shipping is only the beginning. |
+| Growth | Great engineers never stop being students. |
 
-I enjoy mentoring developers, sharing knowledge, and helping engineers grow into independent problem-solvers.
-
-Background
-
-BSc Computer Science
-University of Ghana, Legon
-
-Research experience in human activity recognition and gait analysis, including work with neural networks and the OPPORTUNITY dataset.
-
-Software Engineering & AI Curriculum Author
-Penfield High School
-
-Founder — NextGen Tech Nerds
-A learning community focused on software engineering, practical development, and technology education.
+## `05` — GitHub Analytics
 
 <div align="center">
 
-Let's Build Something Meaningful.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ClarkCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=E4E4E7&rank_icon=github" />
 
-I'm interested in thoughtful engineering collaborations, challenging technical problems, and opportunities to build products that make a difference.
-
-<br />
-
-<a href="https://fredrickportfolio.vercel.app">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/fredrick-mensah-otabil-59532620b/">LinkedIn</a> ·
-<a href="mailto:fredrickotabil97@gmail.com">Get in touch</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarkCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7" />
 
 <br /><br />
 
-<sub>Engineered with intention. Built to last. · Accra, Ghana 🇬🇭</sub>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ClarkCoder&theme=tokyonight&hide_border=true&background=09090B&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
+
+</div>
+
+## `06` — Beyond the Code
+
+🎓 **Education:** BSc Computer Science — University of Ghana, Legon.
+
+🧠 **Research:** Human activity recognition, gait analysis, and neural networks.
+
+👨‍🏫 **Education:** Software Engineering & AI curriculum development at Penfield High School.
+
+🚀 **Community:** Founder of NextGen Tech Nerds, a community focused on practical software engineering education.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:312E81&height=2&section=footer" />
+
+### Think. Architect. Build. Ship.
+
+*Creating technology that solves meaningful problems.*
+
+<br />
+
+<a href="https://fredrickportfolio.vercel.app">Explore My Work ↗</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=ClarkCoder&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+
+<br /><br />
+
+<sub>© Fredrick Otabil · Accra, Ghana 🇬🇭</sub>
 
 </div>
